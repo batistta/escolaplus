@@ -1,0 +1,20 @@
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\bin\Debug\ESCOLAPLUS.exe.config
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\bin\Debug\ESCOLAPLUS.exe
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\bin\Debug\ESCOLAPLUS.pdb
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.FormHOME.resources
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.Properties.Resources.resources
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.csproj.GenerateResource.cache
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.exe
+C:\Users\assue\Desktop\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.pdb
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\bin\Debug\ESCOLAPLUS.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\bin\Debug\ESCOLAPLUS.exe
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\bin\Debug\ESCOLAPLUS.pdb
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.FormHOME.resources
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.Properties.Resources.resources
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.csproj.GenerateResource.cache
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.exe
+C:\Users\assue\Desktop\COISAS FACUL\POO\ESCOLAPLUS\ESCOLAPLUS\obj\Debug\ESCOLAPLUS.pdb
